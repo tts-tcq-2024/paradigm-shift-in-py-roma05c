@@ -1,4 +1,3 @@
-
 def is_temperature_out_of_range(temperature):
     return temperature < 0 or temperature > 45
 def is_soc_out_of_range(soc):
